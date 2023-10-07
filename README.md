@@ -1,2 +1,2 @@
-# m9bmd.github.io
-cs50w-Search 
+# Corn Search 🌽 For CS50W 
+https://m9bmd.github.io/CornSearch/
